@@ -1,5 +1,3 @@
----
-
 ## Resultados del modelo
 
 ### Métricas del modelo
@@ -12,15 +10,11 @@ El modelo entrenado alcanzó los siguientes resultados:
 - Precision: 45.1%
 - Recall: 31.4%
 
----
-
 ### Ejemplo de detección del modelo
 
 ![Detección de daño](detección_modelo.jpg)
 
 El modelo detecta zonas de deterioro en pavimentos mediante bounding boxes utilizando YOLOv11.
-
----
 
 ### Gráficos de entrenamiento
 
@@ -28,13 +22,9 @@ El modelo detecta zonas de deterioro en pavimentos mediante bounding boxes utili
 
 Las curvas de entrenamiento muestran la evolución del aprendizaje del modelo:
 
-- Box Loss
-- Class Loss
+- Box Loss  
+- Class Loss  
 - Object Loss
-
-Estas métricas permiten evaluar la convergencia durante el proceso de entrenamiento.
-
----
 
 ### Evaluación del umbral de confianza
 
