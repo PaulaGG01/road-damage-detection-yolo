@@ -12,13 +12,13 @@ El modelo entrenado alcanzó los siguientes resultados:
 
 ### Ejemplo de detección del modelo
 
-![Detección de daño](detección_modelo.jpg)
+![Detección de daño](deteccion_modelo.jpg)
 
 El modelo detecta zonas de deterioro en pavimentos mediante bounding boxes utilizando YOLOv11.
 
 ### Gráficos de entrenamiento
 
-![Gráficos de entrenamiento](gráficos_entrenamiento.jpg)
+![Gráficos de entrenamiento](graficos_entrenamiento.jpg)
 
 Las curvas de entrenamiento muestran la evolución del aprendizaje del modelo:
 
